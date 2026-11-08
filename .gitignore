@@ -40,3 +40,4 @@ build/
 
 # IntelliJ IDEA additional files
 out/
+.idea/
